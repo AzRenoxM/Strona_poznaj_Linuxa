@@ -1,0 +1,111 @@
+body
+{
+	background-color:#404040;
+	font-family: 'Lato', sans-serif;
+}
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#logo
+{
+	margin-top:20px;
+	color:white;
+	font-size:44px;
+	letter-spacing:3px;
+	font-weight:900;
+	padding:20px;
+}
+#menu
+{
+	background-color:#303030;
+	margin-top:20px;
+	color:#ffffff;
+	padding:15px;
+}
+#topbar
+{
+	background-color:#128870;
+	padding:12px;
+	margin-bottom:25px;
+	color:white;
+	margin-top:20px;
+	height:170px;
+}
+#sidebar
+{
+	loat:left;
+	background-color:#128870;
+	width:140px;
+	padding:20px;
+}
+.MenuBoczne
+{
+	border-bottom:2px dotted #444444;
+	padding:20px;
+	text-align:left;
+	width:100px;
+	color:white;
+}
+.MenuBoczne:hover
+{
+	cursor:pointer;
+	background-color:black;
+}
+#MenuBoczneX
+{
+	border-bottom:2px dotted #444444;
+	padding:20px;
+	text-align:left;
+	width:100px;
+	color:white;
+}
+#content
+{
+	
+}
+#footer
+{
+	
+}
+.domenu
+{
+
+	float:left;
+	min-width:50px;
+	height:20px;
+	font-size:18px;
+	padding:10px;
+	border-right:2px dotted #444444;
+	opacity:0,8;
+}
+.domenu:hover
+{
+	background-color:black;
+	cursor:pointer;
+}
+#obrazeklinuxa
+{
+	float:left;
+	border-right:2px dotted #cccccc;
+	text-align:center;
+	width:140px;
+	padding:13px;
+	height:140px;
+}
+#napis
+{
+	float:left;
+	margin-left:20px;
+	width:750px;
+	text-align:justify;
+}
+
+
+
+
+
+
+
